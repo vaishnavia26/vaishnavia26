@@ -1,4 +1,4 @@
-\# Hi, I'm Vaishnavi 👋
+## Hi, I'm Vaishnavi 👋
 
 🎓 Master's student in Information Technology (Data Analytics)  
 💻 Former Software Engineer at Bristlecone (Mahindra Group)  
